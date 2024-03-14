@@ -10,8 +10,6 @@ export function InputL({children, ...props }: InputProps) {
         <div className='flex items-center '>
     <span className="flex-shrink-0 ps-1 ">
         {children}
-   
-       
     </span>
     <input
       className="mx-auto h-10  w-[100%] rounded-2xl

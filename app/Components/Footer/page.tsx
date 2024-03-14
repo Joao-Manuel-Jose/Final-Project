@@ -47,7 +47,7 @@ export default function Footer() {
           <ul className="text-white flex flex-row gap-8 text-sm font-bold uppercase">
             <div className="space-y-4">
               <li className="text-md font-bold uppercase">
-                A Tchivala
+               AgroClick
               </li>
               <li className="text-md font-bold uppercase ">
                 Soluções

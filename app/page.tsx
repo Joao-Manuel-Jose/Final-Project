@@ -18,12 +18,7 @@ export default function Home() {
       <Counter/>
      
     
-      <MainContainer children1='yyyyyyy' children2={ <h1 className="my-3 text-center text-sm md:text-sm font-normal"></h1>
-            
-            
-          }
-            
-            >
+      <MainContainer children1='yyyyyyy' children2={ <h1 className="my-3 text-center text-sm md:text-sm font-normal"></h1> } >
       
       
        </MainContainer>

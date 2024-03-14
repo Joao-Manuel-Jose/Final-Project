@@ -1,10 +1,7 @@
 import { ReactNode } from 'react'
 
-export function TitleAboutUs({ children }: { children: ReactNode }) {
+export function TitleAboutUs() {
   return (
-    <h2 className=" text-center font-montserrat text-lg md:text-2xl  font-extrabold 
-    uppercase  my-5 text-white md:text-2xl" >
-      {children}
-    </h2>
+   <div>Empresa</div>
   )
 }

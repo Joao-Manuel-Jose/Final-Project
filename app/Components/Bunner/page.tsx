@@ -38,8 +38,8 @@ export function Bunner(){
           <LucideShoppingCart strokeWidth={3}/>
             </div>
           <p className=' text-center text-sm md:text-sm text-gray-50 font-semibold'>
-            Com a Okukula-market vai cair uma chuva de comida,
-            <br/> mas não vai deixar cair as chapas da casa de nimguém!!
+            Com a AngoClick vai cair chuva de comida,
+            <br/> mas não vai estragar as chapas da casa de nimguém!
             </p>
           </div>
          
