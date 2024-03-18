@@ -16,19 +16,7 @@ export default function AboutUs(){
         <div>
           
           <div className='h-'><Carrosel/></div>
-   {/*
- <div className=''><Humani/> </div>
-   
-
-      <div className='text-center mt-1  pt-5 p-10'>
-        <Subtitle>O que fazemos?</Subtitle>
-        <article className='text-xl  w-full md:max-w-[70%] text-center mx-auto px-10'>
-Uma jornada de mil milhas <br /> começa com um único passo
-
-          </article>
-      </div>
-
-      <Footer/> */}
+  
         </div>
     )
 }

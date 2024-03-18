@@ -25,7 +25,7 @@ export default function Home() {
 
        <section className='my-4'>
       <TitlePublic>Produtos</TitlePublic>
-      <p className='text-center text-sm font-normal'>Aqui tú podes comprar produtos agricolas e seus <br/>  derivados à grande quantidades!</p>
+      <p className='text-center text-sm font-normal'>Aqui tú podes comprar produtos agricolas e seus <br/>  derivados à grosso!</p>
       </section>
      
       
